@@ -3,7 +3,7 @@
 
 This the first English translation of Paltrul Rinpoche's Exhortation to read Longehenpa's 7 Treasuries.  
 
-It was produced by Qwen 3 Max in about 80 hours by 10 iterations of providing "conventions.md" and the latest draft in chunks with 10 couplets of alternating chat sessions with prompts:
+It was produced by Qwen 3 Max in about 80 hours by 10 iterations of providing "conventions.md" and the latest draft in chunks to couplets of alternating chat sessions with prompts:
 
 ## Session 1
 
